@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "171791428632",
+    "project_id": "jastipku-uts",
+    "storage_bucket": "jastipku-uts.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171791428632:android:e950d7a72c299bf9d6a76d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcLvtOkqQOYPOTVptcC_c3nH2hx7_1s5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
